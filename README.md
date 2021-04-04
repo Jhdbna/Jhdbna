@@ -1,0 +1,5 @@
+- 👋 Hi, I’m JB .
+- 👀 I’m interested in Full Stack Development .
+- 🌱 I’m currently learning MongoDB .
+- 💞️ I’m looking to collaborate on interesting projects . 
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jihad-banna-6592b7102/) or [Email](mailto:jihadbanna94@gmail.com)
